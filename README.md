@@ -1,3 +1,11 @@
+Temperature Converter - calculator converts Celsius to Fahrenheit (and vice-versa) in real time. 
+
+Demo: https://dmendoz1.github.io/temperature-converter-hooks/
+
+This project was inspired by Dan Abramov's temp converter tutorial, except I rewrote it using React Hooks.
+
+To run locally, clone / download repository and, once on the repository directory on terminal, run `npm start`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
