@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/temperature-converter-hooks/static/css/main.8aca12c9.chunk.css",
+    "main.js": "/temperature-converter-hooks/static/js/main.54ed3e19.chunk.js",
+    "main.js.map": "/temperature-converter-hooks/static/js/main.54ed3e19.chunk.js.map",
+    "runtime~main.js": "/temperature-converter-hooks/static/js/runtime~main.08869b74.js",
+    "runtime~main.js.map": "/temperature-converter-hooks/static/js/runtime~main.08869b74.js.map",
+    "static/js/2.d042e1ad.chunk.js": "/temperature-converter-hooks/static/js/2.d042e1ad.chunk.js",
+    "static/js/2.d042e1ad.chunk.js.map": "/temperature-converter-hooks/static/js/2.d042e1ad.chunk.js.map",
+    "index.html": "/temperature-converter-hooks/index.html",
+    "precache-manifest.48945f07b63c748e6c05a8a8b109b919.js": "/temperature-converter-hooks/precache-manifest.48945f07b63c748e6c05a8a8b109b919.js",
+    "service-worker.js": "/temperature-converter-hooks/service-worker.js",
+    "static/css/main.8aca12c9.chunk.css.map": "/temperature-converter-hooks/static/css/main.8aca12c9.chunk.css.map"
+  }
+}
